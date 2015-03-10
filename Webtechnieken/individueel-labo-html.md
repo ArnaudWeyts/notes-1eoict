@@ -10,10 +10,10 @@
 	- logo = h1/a/tekst
 	- menu's = ul/li/a/tekst
 	- andere elementen (blockquote, p, dl ...)
-	- geen <b> of <i> maaar <strong> en <em>
+	- geen \<b> of \<i> maar \<strong> en \<em>
 - keuze afbeeldingen
 	- geen design in plaatsen wel vaste logo's
-- formu
+- forms
 	- form|action
 	- structuur: fieldsets/dl, dt(labael), dd(controls)
 	- structuur: checkboxes en radiobuttons controls nesten in hun labels
@@ -23,6 +23,6 @@
 	- img|src, alt
 	- a|href
 - layout
-	geen spaties
-	let op inspringingen
+	- geen spaties
+	- let op inspringingen
 - VALIDATIE!
